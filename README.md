@@ -1,3 +1,4 @@
+## Hi, there! I'am Devansh Taneja, studying in BVCOE, Delhi:
 ## 💼 Role:
 **Fullstack Developer** | **Programmer with strong DSA skills**
 
