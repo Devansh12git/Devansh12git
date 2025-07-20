@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Devansh12git
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💼 Role: Fullstack Developer | Programmer with strong DSA skills
+📫 Reach me: LinkedIn | Email
+🛠 Skills
+💻 Frontend
+HTML CSS JavaScript React TailwindCSS
 
-<!---
-Devansh12git/Devansh12git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Backend
+Node.js Express mySQL
+
+🧠 Languages
+C++ Java JavaScript
+
+🧰 Tools & Platforms
+VSCode GitHub
