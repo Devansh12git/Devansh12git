@@ -1,7 +1,7 @@
 ## 💼 Role:
-**Fullstack Developer** | Programmer with strong DSA skills
+**Fullstack Developer** | **Programmer with strong DSA skills**
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/devansh-taneja12) | [Email](mailto:devansh.taneja2004@gmail.com)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/devansh-taneja-1a81b4236/) | [Email](mailto:devansh.taneja2004@gmail.com)
 
 ---
 
